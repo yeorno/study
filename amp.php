@@ -79,7 +79,9 @@ windows环境：
 		 解决方案：编辑my.ini文件， #skip-grant-tables取消此行注释，重启mysql
 		 此行意思是：密码不为空，就能登陆进去
 		 执行mysql：update user set authentication_string=password('123456') where User='root';
+		 #skip-grant-tables 注释掉此行
 		 退出重启mysql，
+		
 
 
 		
