@@ -1,7 +1,7 @@
 #amp安装教程
 下载apache:https://www.apachehaus.com/
 下载php:http://www.php.net/downloads.php
-下载mysql:
+下载mysql:https://dev.mysql.com/downloads/mysql/
 下载phpmyadmin:https://www.phpmyadmin.net/downloads/
 
 apache2.4+mysql5.7+php7.2-ts
